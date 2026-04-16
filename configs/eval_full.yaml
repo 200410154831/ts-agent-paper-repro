@@ -1,0 +1,9 @@
+data_path: /root/autodl-tmp/data/TimeSeriesExam_round3_qa_dataset.json
+step_budget: 4
+save_every: 20
+category_map:
+  Pattern Recognition: Pattern Recognition
+  Noise Understanding: Noise Understanding
+  Anolmaly Detection: Anomaly Detection
+  Similarity Analysis: Similarity Analysis
+  Causality Analysis: Causality Analysis

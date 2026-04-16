@@ -1,0 +1,18 @@
+{
+  "sample_size": 50,
+  "baseline_rows": 50,
+  "agent_rows": 50,
+  "missing_in_baseline": [],
+  "missing_in_agent": [],
+  "category_mapping_ok": true,
+  "baseline_status_counts": {
+    "ok": 50
+  },
+  "agent_status_counts": {
+    "ok": 50
+  },
+  "baseline_correct": 29,
+  "agent_correct": 21,
+  "baseline_accuracy": 0.58,
+  "agent_accuracy": 0.42
+}

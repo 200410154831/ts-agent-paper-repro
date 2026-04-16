@@ -1,0 +1,10 @@
+numpy
+pandas
+requests
+PyYAML
+statsmodels
+scipy
+scikit-learn
+ruptures
+dtaidistance
+tabulate
